@@ -11,5 +11,7 @@ if num1 > num2: #条件嵌套 - 注意缩进
 else:
     if num2 > num3:
         print(f'num2是三个数中的最大值，为{num2}')
+
+
     else:
         print(f'num3是三个数中的最大值，为{num3}')
